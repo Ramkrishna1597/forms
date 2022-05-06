@@ -1,0 +1,26 @@
+{
+  "formData": [
+    {
+      "name": "ramkrishna keer",
+      "age": "25",
+      "address": "204, Neel kanth road, Nasrullaganj",
+      "department": "frontend",
+      "salary": "62000",
+      "martialStatus": "unmaried",
+      "email": "ramkrishnakeer786@gmail.com",
+      "add": "h",
+      "marrtialStatus": "d",
+      "id": 1
+    },
+    {
+      "name": "Ram",
+      "age": "24",
+      "address": "204",
+      "department": "backend",
+      "salary": "62000",
+      "martialStatus": "unmarried",
+      "email": "ramkrishnakeer786@gmail.com",
+      "id": 2
+    }
+  ]
+}
